@@ -9,6 +9,7 @@ Each line in the text file represents one medical test in the format:
 <PatientID>: <TestName>, <TestDate>, <Result>
 
 Example:
+
 1300500: RBC, 2024-03, 13.5  
 1300511: LDL, 2024-03, 110
 
